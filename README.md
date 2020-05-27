@@ -1,6 +1,6 @@
 # _{My favorite Webpage}_
 
-#### _{This website will detail our favorite people}, {March 24}_
+#### _{This website will detail our favorite people}, {May 27th}_
 
 #### By _**{Niko Rivas and Thomas Glenn}**_
 
@@ -33,4 +33,4 @@ _{This file was made with HTML and CSS.}_
 
 *({This softward is licensed under the MIT license.})
 
-Copyright (c) 2020 **_{NIKO RIVAS and THOMAS GLENN}
+Copyright (c) 2020 **_{MICHAEL PETERSEN and THOMAS GLENN}
